@@ -1,0 +1,12 @@
+C:\xampp\htdocs\face-recognition-attendance-system\Face Recognition Attendance System\Face Recognition Attendance System\bin\Debug\Face Recognition Attendance System.exe.config
+C:\xampp\htdocs\face-recognition-attendance-system\Face Recognition Attendance System\Face Recognition Attendance System\bin\Debug\Face Recognition Attendance System.exe
+C:\xampp\htdocs\face-recognition-attendance-system\Face Recognition Attendance System\Face Recognition Attendance System\bin\Debug\Face Recognition Attendance System.pdb
+C:\xampp\htdocs\face-recognition-attendance-system\Face Recognition Attendance System\Face Recognition Attendance System\bin\Debug\Face Recognition Attendance System.xml
+C:\xampp\htdocs\face-recognition-attendance-system\Face Recognition Attendance System\Face Recognition Attendance System\obj\Debug\Face_Recognition_Attendance_System.LoginForm.resources
+C:\xampp\htdocs\face-recognition-attendance-system\Face Recognition Attendance System\Face Recognition Attendance System\obj\Debug\Face_Recognition_Attendance_System.Resources.resources
+C:\xampp\htdocs\face-recognition-attendance-system\Face Recognition Attendance System\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.vbproj.GenerateResource.cache
+C:\xampp\htdocs\face-recognition-attendance-system\Face Recognition Attendance System\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.vbproj.CoreCompileInputs.cache
+C:\xampp\htdocs\face-recognition-attendance-system\Face Recognition Attendance System\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.exe
+C:\xampp\htdocs\face-recognition-attendance-system\Face Recognition Attendance System\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.xml
+C:\xampp\htdocs\face-recognition-attendance-system\Face Recognition Attendance System\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.pdb
+C:\xampp\htdocs\face-recognition-attendance-system\Face Recognition Attendance System\Face Recognition Attendance System\obj\Debug\Face Recognition Attendance System.vbprojAssemblyReference.cache
